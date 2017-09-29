@@ -32,13 +32,8 @@ a {
 	font-weight: bold;
 }
 
-.header {
+.header, .DesignedInNY  {
 	color: white;
-	background-image: url("../../resources/images/the-flatiron-building.png");
-}
-
-.DesignedInNY {
-	color:white;
 	background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
@@ -48,6 +43,4 @@ a {
 	color: white;
 	text-align: left;
 }
-
-
 
